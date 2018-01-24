@@ -2,3 +2,7 @@ Click
 requests
 lxml
 scraperwiki
+
+matplotlib
+pandas
+folium
